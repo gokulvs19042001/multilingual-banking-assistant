@@ -1,0 +1,65 @@
+[
+  {
+    "name": "PM Jan Dhan Yojana",
+    "min_age": null,
+    "max_age": null,
+    "audience": "any",
+    "type": "bank_account",
+    "summary": "Basic savings bank account for financial inclusion with no minimum balance requirement.",
+    "source": "https://pmjdy.gov.in"
+  },
+  {
+    "name": "PM Suraksha Bima Yojana (PMSBY)",
+    "min_age": 18,
+    "max_age": 70,
+    "audience": "any",
+    "type": "insurance",
+    "summary": "Low-cost accident insurance providing coverage for accidental death and disability.",
+    "source": "https://jansuraksha.gov.in"
+  },
+  {
+    "name": "PM Jeevan Jyoti Bima Yojana (PMJJBY)",
+    "min_age": 18,
+    "max_age": 50,
+    "audience": "any",
+    "type": "insurance",
+    "summary": "Renewable one-year life insurance scheme providing coverage on death due to any cause.",
+    "source": "https://jansuraksha.gov.in"
+  },
+  {
+    "name": "Atal Pension Yojana",
+    "min_age": 18,
+    "max_age": 40,
+    "audience": "unorganised_worker",
+    "type": "pension",
+    "summary": "Pension scheme providing a guaranteed minimum monthly pension from age 60 based on contributions.",
+    "source": "https://jansuraksha.gov.in"
+  },
+  {
+    "name": "PM SVANidhi",
+    "min_age": null,
+    "max_age": null,
+    "audience": "street_vendor",
+    "type": "loan",
+    "summary": "Collateral-free working-capital loans and related support for eligible street vendors.",
+    "source": "https://pmsvanidhi.mohua.gov.in"
+  },
+  {
+    "name": "Mudra Loans",
+    "min_age": null,
+    "max_age": null,
+    "audience": "small_business",
+    "type": "loan",
+    "summary": "Collateral-free institutional credit for micro enterprises engaged in non-agricultural income-generating activities.",
+    "source": "https://www.mudra.org.in"
+  },
+  {
+    "name": "Sukanya Samriddhi Yojana",
+    "min_age": 0,
+    "max_age": 9,
+    "audience": "girl_child",
+    "type": "savings",
+    "summary": "Government-backed savings scheme that can be opened by a guardian in the name of a girl child below 10 years of age.",
+    "source": "https://www.indiapost.gov.in"
+  }
+]
